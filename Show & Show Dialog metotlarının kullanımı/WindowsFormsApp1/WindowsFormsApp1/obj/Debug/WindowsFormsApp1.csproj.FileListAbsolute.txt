@@ -1,0 +1,11 @@
+C:\Users\yalinkilic.orkun\Desktop\18.10.2019 tarihi\3-) Show & Show Dialog metotlarının kullanımı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\yalinkilic.orkun\Desktop\18.10.2019 tarihi\3-) Show & Show Dialog metotlarının kullanımı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\yalinkilic.orkun\Desktop\18.10.2019 tarihi\3-) Show & Show Dialog metotlarının kullanımı\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\yalinkilic.orkun\Desktop\18.10.2019 tarihi\3-) Show & Show Dialog metotlarının kullanımı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\yalinkilic.orkun\Desktop\18.10.2019 tarihi\3-) Show & Show Dialog metotlarının kullanımı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\yalinkilic.orkun\Desktop\18.10.2019 tarihi\3-) Show & Show Dialog metotlarının kullanımı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Musteri_Kayit.resources
+C:\Users\yalinkilic.orkun\Desktop\18.10.2019 tarihi\3-) Show & Show Dialog metotlarının kullanımı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\yalinkilic.orkun\Desktop\18.10.2019 tarihi\3-) Show & Show Dialog metotlarının kullanımı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\yalinkilic.orkun\Desktop\18.10.2019 tarihi\3-) Show & Show Dialog metotlarının kullanımı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\yalinkilic.orkun\Desktop\18.10.2019 tarihi\3-) Show & Show Dialog metotlarının kullanımı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\yalinkilic.orkun\Desktop\18.10.2019 tarihi\3-) Show & Show Dialog metotlarının kullanımı\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

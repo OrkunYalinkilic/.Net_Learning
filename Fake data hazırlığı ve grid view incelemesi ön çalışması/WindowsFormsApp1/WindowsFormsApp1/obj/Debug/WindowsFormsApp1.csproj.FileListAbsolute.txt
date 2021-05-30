@@ -1,0 +1,13 @@
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\77-) Fake data hazırlığı ve grid view incelemesi ön çalışması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\77-) Fake data hazırlığı ve grid view incelemesi ön çalışması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\77-) Fake data hazırlığı ve grid view incelemesi ön çalışması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\77-) Fake data hazırlığı ve grid view incelemesi ön çalışması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FakeData.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\77-) Fake data hazırlığı ve grid view incelemesi ön çalışması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FakeData.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\77-) Fake data hazırlığı ve grid view incelemesi ön çalışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\77-) Fake data hazırlığı ve grid view incelemesi ön çalışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\77-) Fake data hazırlığı ve grid view incelemesi ön çalışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\77-) Fake data hazırlığı ve grid view incelemesi ön çalışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\77-) Fake data hazırlığı ve grid view incelemesi ön çalışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\77-) Fake data hazırlığı ve grid view incelemesi ön çalışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\77-) Fake data hazırlığı ve grid view incelemesi ön çalışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMusteri.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\77-) Fake data hazırlığı ve grid view incelemesi ön çalışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.popUpMesaj.resources

@@ -1,0 +1,27 @@
+C:\Users\Cengiz Atilla\Desktop\ExcelOku\ExcelOkuWinApp\ExcelOkuWinApp\bin\Debug\ExcelOkuWinApp.exe.config
+C:\Users\Cengiz Atilla\Desktop\ExcelOku\ExcelOkuWinApp\ExcelOkuWinApp\bin\Debug\ExcelOkuWinApp.exe
+C:\Users\Cengiz Atilla\Desktop\ExcelOku\ExcelOkuWinApp\ExcelOkuWinApp\bin\Debug\ExcelOkuWinApp.pdb
+C:\Users\Cengiz Atilla\Desktop\ExcelOku\ExcelOkuWinApp\ExcelOkuWinApp\obj\Debug\ExcelOkuWinApp.csprojAssemblyReference.cache
+C:\Users\Cengiz Atilla\Desktop\ExcelOku\ExcelOkuWinApp\ExcelOkuWinApp\obj\Debug\ExcelOkuWinApp.Form1.resources
+C:\Users\Cengiz Atilla\Desktop\ExcelOku\ExcelOkuWinApp\ExcelOkuWinApp\obj\Debug\ExcelOkuWinApp.Properties.Resources.resources
+C:\Users\Cengiz Atilla\Desktop\ExcelOku\ExcelOkuWinApp\ExcelOkuWinApp\obj\Debug\ExcelOkuWinApp.csproj.GenerateResource.cache
+C:\Users\Cengiz Atilla\Desktop\ExcelOku\ExcelOkuWinApp\ExcelOkuWinApp\obj\Debug\ExcelOkuWinApp.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz Atilla\Desktop\ExcelOku\ExcelOkuWinApp\ExcelOkuWinApp\obj\Debug\ExcelOkuWinApp.exe
+C:\Users\Cengiz Atilla\Desktop\ExcelOku\ExcelOkuWinApp\ExcelOkuWinApp\obj\Debug\ExcelOkuWinApp.pdb
+C:\Users\Cengiz Atilla\Desktop\ExcelOku\ExcelOkuWinApp\ExcelOkuWinApp\bin\Debug\ExcelDataReader.dll
+C:\Users\Cengiz Atilla\Desktop\ExcelOku\ExcelOkuWinApp\ExcelOkuWinApp\bin\Debug\ExcelDataReader.pdb
+C:\Users\Cengiz Atilla\Desktop\ExcelOku\ExcelOkuWinApp\ExcelOkuWinApp\bin\Debug\ExcelDataReader.xml
+C:\Users\Cengiz Atilla\Desktop\ExcelOku\ExcelOkuWinApp\ExcelOkuWinApp\obj\Debug\ExcelOkuWinApp.csproj.CopyComplete
+C:\Users\Orkun YALINKILIÇ\Desktop\C# Başlangıç ve İleri Düzey\52. Uygulama Alanı\ExcelOkuWinApp\ExcelOkuWinApp\bin\Debug\ExcelOkuWinApp.exe.config
+C:\Users\Orkun YALINKILIÇ\Desktop\C# Başlangıç ve İleri Düzey\52. Uygulama Alanı\ExcelOkuWinApp\ExcelOkuWinApp\bin\Debug\ExcelOkuWinApp.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# Başlangıç ve İleri Düzey\52. Uygulama Alanı\ExcelOkuWinApp\ExcelOkuWinApp\bin\Debug\ExcelOkuWinApp.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# Başlangıç ve İleri Düzey\52. Uygulama Alanı\ExcelOkuWinApp\ExcelOkuWinApp\bin\Debug\ExcelDataReader.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# Başlangıç ve İleri Düzey\52. Uygulama Alanı\ExcelOkuWinApp\ExcelOkuWinApp\bin\Debug\ExcelDataReader.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# Başlangıç ve İleri Düzey\52. Uygulama Alanı\ExcelOkuWinApp\ExcelOkuWinApp\bin\Debug\ExcelDataReader.xml
+C:\Users\Orkun YALINKILIÇ\Desktop\C# Başlangıç ve İleri Düzey\52. Uygulama Alanı\ExcelOkuWinApp\ExcelOkuWinApp\obj\Debug\ExcelOkuWinApp.csprojAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# Başlangıç ve İleri Düzey\52. Uygulama Alanı\ExcelOkuWinApp\ExcelOkuWinApp\obj\Debug\ExcelOkuWinApp.Form1.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\C# Başlangıç ve İleri Düzey\52. Uygulama Alanı\ExcelOkuWinApp\ExcelOkuWinApp\obj\Debug\ExcelOkuWinApp.Properties.Resources.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\C# Başlangıç ve İleri Düzey\52. Uygulama Alanı\ExcelOkuWinApp\ExcelOkuWinApp\obj\Debug\ExcelOkuWinApp.csproj.GenerateResource.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# Başlangıç ve İleri Düzey\52. Uygulama Alanı\ExcelOkuWinApp\ExcelOkuWinApp\obj\Debug\ExcelOkuWinApp.csproj.CopyComplete
+C:\Users\Orkun YALINKILIÇ\Desktop\C# Başlangıç ve İleri Düzey\52. Uygulama Alanı\ExcelOkuWinApp\ExcelOkuWinApp\obj\Debug\ExcelOkuWinApp.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# Başlangıç ve İleri Düzey\52. Uygulama Alanı\ExcelOkuWinApp\ExcelOkuWinApp\obj\Debug\ExcelOkuWinApp.pdb

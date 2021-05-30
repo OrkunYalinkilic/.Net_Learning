@@ -1,0 +1,8 @@
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\UdemyLib\UdemyLib\bin\Debug\netstandard2.0\UdemyLib.deps.json
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\UdemyLib\UdemyLib\bin\Debug\netstandard2.0\UdemyLib.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\UdemyLib\UdemyLib\bin\Debug\netstandard2.0\UdemyLib.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\UdemyLib\UdemyLib\obj\Debug\netstandard2.0\UdemyLib.csprojAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\UdemyLib\UdemyLib\obj\Debug\netstandard2.0\UdemyLib.AssemblyInfoInputs.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\UdemyLib\UdemyLib\obj\Debug\netstandard2.0\UdemyLib.AssemblyInfo.cs
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\UdemyLib\UdemyLib\obj\Debug\netstandard2.0\UdemyLib.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\UdemyLib\UdemyLib\obj\Debug\netstandard2.0\UdemyLib.pdb

@@ -1,0 +1,9 @@
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\97-) RSS Okuma Uygulaması\RSS Okuma Uygulaması\RSS Okuma Uygulaması\bin\Debug\RSS Okuma Uygulaması.exe.config
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\97-) RSS Okuma Uygulaması\RSS Okuma Uygulaması\RSS Okuma Uygulaması\bin\Debug\RSS Okuma Uygulaması.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\97-) RSS Okuma Uygulaması\RSS Okuma Uygulaması\RSS Okuma Uygulaması\bin\Debug\RSS Okuma Uygulaması.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\97-) RSS Okuma Uygulaması\RSS Okuma Uygulaması\RSS Okuma Uygulaması\obj\Debug\RSS Okuma Uygulaması.csprojAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\97-) RSS Okuma Uygulaması\RSS Okuma Uygulaması\RSS Okuma Uygulaması\obj\Debug\RSS_Okuma_Uygulaması.Form1.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\97-) RSS Okuma Uygulaması\RSS Okuma Uygulaması\RSS Okuma Uygulaması\obj\Debug\RSS_Okuma_Uygulaması.Properties.Resources.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\97-) RSS Okuma Uygulaması\RSS Okuma Uygulaması\RSS Okuma Uygulaması\obj\Debug\RSS Okuma Uygulaması.csproj.GenerateResource.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\97-) RSS Okuma Uygulaması\RSS Okuma Uygulaması\RSS Okuma Uygulaması\obj\Debug\RSS Okuma Uygulaması.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\97-) RSS Okuma Uygulaması\RSS Okuma Uygulaması\RSS Okuma Uygulaması\obj\Debug\RSS Okuma Uygulaması.pdb

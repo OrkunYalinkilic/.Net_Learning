@@ -1,0 +1,6 @@
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\UdemyLib\01_Inceleme\bin\Debug\01_Inceleme.exe.config
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\UdemyLib\01_Inceleme\bin\Debug\01_Inceleme.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\UdemyLib\01_Inceleme\bin\Debug\01_Inceleme.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\UdemyLib\01_Inceleme\obj\Debug\01_Inceleme.csprojAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\UdemyLib\01_Inceleme\obj\Debug\01_Inceleme.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\UdemyLib\01_Inceleme\obj\Debug\01_Inceleme.pdb

@@ -1,0 +1,9 @@
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\92-) Linq Nedir  Neden Avantajlıdır\1. Linq Nedir  Neden Avantajlıdır\1. Linq Nedir  Neden Avantajlıdır\bin\Debug\_1.Linq_Nedir__Neden_Avantajlıdır.exe.config
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\92-) Linq Nedir  Neden Avantajlıdır\1. Linq Nedir  Neden Avantajlıdır\1. Linq Nedir  Neden Avantajlıdır\bin\Debug\_1.Linq_Nedir__Neden_Avantajlıdır.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\92-) Linq Nedir  Neden Avantajlıdır\1. Linq Nedir  Neden Avantajlıdır\1. Linq Nedir  Neden Avantajlıdır\bin\Debug\_1.Linq_Nedir__Neden_Avantajlıdır.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\92-) Linq Nedir  Neden Avantajlıdır\1. Linq Nedir  Neden Avantajlıdır\1. Linq Nedir  Neden Avantajlıdır\bin\Debug\FakeData.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\92-) Linq Nedir  Neden Avantajlıdır\1. Linq Nedir  Neden Avantajlıdır\1. Linq Nedir  Neden Avantajlıdır\bin\Debug\FakeData.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\92-) Linq Nedir  Neden Avantajlıdır\1. Linq Nedir  Neden Avantajlıdır\1. Linq Nedir  Neden Avantajlıdır\obj\Debug\1. Linq Nedir  Neden Avantajlıdır.csprojAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\92-) Linq Nedir  Neden Avantajlıdır\1. Linq Nedir  Neden Avantajlıdır\1. Linq Nedir  Neden Avantajlıdır\obj\Debug\1. Linq Nedir  Neden Avantajlıdır.csproj.CopyComplete
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\92-) Linq Nedir  Neden Avantajlıdır\1. Linq Nedir  Neden Avantajlıdır\1. Linq Nedir  Neden Avantajlıdır\obj\Debug\_1.Linq_Nedir__Neden_Avantajlıdır.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\92-) Linq Nedir  Neden Avantajlıdır\1. Linq Nedir  Neden Avantajlıdır\1. Linq Nedir  Neden Avantajlıdır\obj\Debug\_1.Linq_Nedir__Neden_Avantajlıdır.pdb

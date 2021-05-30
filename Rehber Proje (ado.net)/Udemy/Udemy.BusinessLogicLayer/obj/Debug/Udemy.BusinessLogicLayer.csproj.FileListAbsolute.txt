@@ -1,0 +1,10 @@
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.BusinessLogicLayer\obj\Debug\Udemy.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.BusinessLogicLayer\bin\Debug\Udemy.BusinessLogicLayer.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.BusinessLogicLayer\bin\Debug\Udemy.BusinessLogicLayer.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.BusinessLogicLayer\bin\Debug\Udemy.DatabaseLogicLayer.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.BusinessLogicLayer\bin\Debug\Udemy.Entities.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.BusinessLogicLayer\bin\Debug\Udemy.DatabaseLogicLayer.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.BusinessLogicLayer\bin\Debug\Udemy.Entities.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.BusinessLogicLayer\obj\Debug\Udemy.BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.BusinessLogicLayer\obj\Debug\Udemy.BusinessLogicLayer.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.BusinessLogicLayer\obj\Debug\Udemy.BusinessLogicLayer.pdb

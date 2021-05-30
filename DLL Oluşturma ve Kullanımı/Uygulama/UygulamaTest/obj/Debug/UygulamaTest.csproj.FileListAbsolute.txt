@@ -1,0 +1,11 @@
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\Uygulama\UygulamaTest\bin\Debug\UygulamaTest.exe.config
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\Uygulama\UygulamaTest\bin\Debug\UygulamaTest.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\Uygulama\UygulamaTest\bin\Debug\UygulamaTest.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\Uygulama\UygulamaTest\bin\Debug\MatematikselIslemler.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\Uygulama\UygulamaTest\bin\Debug\Uygulama.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\Uygulama\UygulamaTest\bin\Debug\Uygulama.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\Uygulama\UygulamaTest\bin\Debug\Uygulama.exe.config
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\Uygulama\UygulamaTest\obj\Debug\UygulamaTest.csprojAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\Uygulama\UygulamaTest\obj\Debug\UygulamaTest.csproj.CopyComplete
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\Uygulama\UygulamaTest\obj\Debug\UygulamaTest.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\Uygulama\UygulamaTest\obj\Debug\UygulamaTest.pdb

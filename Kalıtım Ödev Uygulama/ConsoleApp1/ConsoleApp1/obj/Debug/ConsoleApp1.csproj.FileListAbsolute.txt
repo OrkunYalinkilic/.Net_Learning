@@ -1,0 +1,14 @@
+C:\Users\yalinkilic.orkun.STD\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\yalinkilic.orkun.STD\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\yalinkilic.orkun.STD\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\yalinkilic.orkun.STD\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\yalinkilic.orkun.STD\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\yalinkilic.orkun.STD\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\yalinkilic.orkun.STD\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\48-) Kalıtım Ödev Uygulama\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\48-) Kalıtım Ödev Uygulama\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\48-) Kalıtım Ödev Uygulama\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\48-) Kalıtım Ödev Uygulama\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\48-) Kalıtım Ödev Uygulama\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\48-) Kalıtım Ödev Uygulama\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\48-) Kalıtım Ödev Uygulama\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

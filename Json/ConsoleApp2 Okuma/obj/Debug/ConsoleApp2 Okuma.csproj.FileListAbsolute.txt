@@ -1,0 +1,9 @@
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\98-) Json Nedir\ConsoleApp2 Okuma\bin\Debug\ConsoleApp2 Okuma.exe.config
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\98-) Json Nedir\ConsoleApp2 Okuma\bin\Debug\ConsoleApp2 Okuma.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\98-) Json Nedir\ConsoleApp2 Okuma\bin\Debug\ConsoleApp2 Okuma.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\98-) Json Nedir\ConsoleApp2 Okuma\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\98-) Json Nedir\ConsoleApp2 Okuma\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\98-) Json Nedir\ConsoleApp2 Okuma\obj\Debug\ConsoleApp2 Okuma.csprojAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\98-) Json Nedir\ConsoleApp2 Okuma\obj\Debug\ConsoleApp2 Okuma.csproj.CopyComplete
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\98-) Json Nedir\ConsoleApp2 Okuma\obj\Debug\ConsoleApp2 Okuma.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\98-) Json Nedir\ConsoleApp2 Okuma\obj\Debug\ConsoleApp2 Okuma.pdb

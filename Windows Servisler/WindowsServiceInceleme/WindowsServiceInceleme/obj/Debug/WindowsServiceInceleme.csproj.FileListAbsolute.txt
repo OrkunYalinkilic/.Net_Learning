@@ -1,0 +1,8 @@
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\109-) Windows Servisler\WindowsServiceInceleme\WindowsServiceInceleme\bin\Debug\WindowsServiceInceleme.exe.config
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\109-) Windows Servisler\WindowsServiceInceleme\WindowsServiceInceleme\bin\Debug\WindowsServiceInceleme.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\109-) Windows Servisler\WindowsServiceInceleme\WindowsServiceInceleme\bin\Debug\WindowsServiceInceleme.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\109-) Windows Servisler\WindowsServiceInceleme\WindowsServiceInceleme\obj\Debug\WindowsServiceInceleme.csprojAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\109-) Windows Servisler\WindowsServiceInceleme\WindowsServiceInceleme\obj\Debug\WindowsServiceInceleme.ProjectInstaller.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\109-) Windows Servisler\WindowsServiceInceleme\WindowsServiceInceleme\obj\Debug\WindowsServiceInceleme.csproj.GenerateResource.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\109-) Windows Servisler\WindowsServiceInceleme\WindowsServiceInceleme\obj\Debug\WindowsServiceInceleme.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\109-) Windows Servisler\WindowsServiceInceleme\WindowsServiceInceleme\obj\Debug\WindowsServiceInceleme.pdb

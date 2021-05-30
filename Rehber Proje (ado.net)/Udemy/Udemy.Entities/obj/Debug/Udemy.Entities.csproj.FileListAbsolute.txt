@@ -1,0 +1,6 @@
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.Entities\bin\Debug\Udemy.Entities.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.Entities\bin\Debug\Udemy.Entities.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.Entities\obj\Debug\Udemy.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.Entities\obj\Debug\Udemy.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.Entities\obj\Debug\Udemy.Entities.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.Entities\obj\Debug\Udemy.Entities.pdb

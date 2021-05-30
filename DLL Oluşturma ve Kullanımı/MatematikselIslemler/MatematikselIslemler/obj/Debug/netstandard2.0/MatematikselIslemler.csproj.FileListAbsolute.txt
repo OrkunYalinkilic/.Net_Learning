@@ -1,0 +1,8 @@
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\MatematikselIslemler\MatematikselIslemler\bin\Debug\netstandard2.0\MatematikselIslemler.deps.json
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\MatematikselIslemler\MatematikselIslemler\bin\Debug\netstandard2.0\MatematikselIslemler.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\MatematikselIslemler\MatematikselIslemler\bin\Debug\netstandard2.0\MatematikselIslemler.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\MatematikselIslemler\MatematikselIslemler\obj\Debug\netstandard2.0\MatematikselIslemler.csprojAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\MatematikselIslemler\MatematikselIslemler\obj\Debug\netstandard2.0\MatematikselIslemler.AssemblyInfoInputs.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\MatematikselIslemler\MatematikselIslemler\obj\Debug\netstandard2.0\MatematikselIslemler.AssemblyInfo.cs
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\MatematikselIslemler\MatematikselIslemler\obj\Debug\netstandard2.0\MatematikselIslemler.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\100-) DLL Oluşturma ve Kullanımı\MatematikselIslemler\MatematikselIslemler\obj\Debug\netstandard2.0\MatematikselIslemler.pdb

@@ -1,0 +1,8 @@
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.DatabaseLogicLayer\obj\Debug\Udemy.DatabaseLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.DatabaseLogicLayer\obj\Debug\Udemy.DatabaseLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.DatabaseLogicLayer\bin\Debug\Udemy.DatabaseLogicLayer.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.DatabaseLogicLayer\bin\Debug\Udemy.DatabaseLogicLayer.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.DatabaseLogicLayer\bin\Debug\Udemy.Entities.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.DatabaseLogicLayer\bin\Debug\Udemy.Entities.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.DatabaseLogicLayer\obj\Debug\Udemy.DatabaseLogicLayer.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.DatabaseLogicLayer\obj\Debug\Udemy.DatabaseLogicLayer.pdb

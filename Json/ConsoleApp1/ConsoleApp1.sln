@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{1E3537E4-0DD2-4D41-8D25-850B192E54F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2 Okuma", "..\ConsoleApp2 Okuma\ConsoleApp2 Okuma.csproj", "{3BCD388A-5A60-43BD-B5BA-BC898803AE87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E3537E4-0DD2-4D41-8D25-850B192E54F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3537E4-0DD2-4D41-8D25-850B192E54F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3537E4-0DD2-4D41-8D25-850B192E54F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3537E4-0DD2-4D41-8D25-850B192E54F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BCD388A-5A60-43BD-B5BA-BC898803AE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCD388A-5A60-43BD-B5BA-BC898803AE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BCD388A-5A60-43BD-B5BA-BC898803AE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BCD388A-5A60-43BD-B5BA-BC898803AE87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB3A4035-E383-4194-87E3-3DC6E79C8CB7}
+	EndGlobalSection
+EndGlobal

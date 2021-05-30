@@ -1,0 +1,17 @@
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.TelefonRehber\obj\Debug\Udemy.TelefonRehber.csprojResolveAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.TelefonRehber\obj\Debug\Udemy.TelefonRehber.AnaForm.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.TelefonRehber\obj\Debug\Udemy.TelefonRehber.Form1.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.TelefonRehber\obj\Debug\Udemy.TelefonRehber.Properties.Resources.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.TelefonRehber\obj\Debug\Udemy.TelefonRehber.csproj.GenerateResource.Cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.TelefonRehber\obj\Debug\Udemy.TelefonRehber.csproj.CoreCompileInputs.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.TelefonRehber\bin\Debug\Udemy.TelefonRehber.exe.config
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.TelefonRehber\bin\Debug\Udemy.TelefonRehber.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.TelefonRehber\bin\Debug\Udemy.TelefonRehber.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.TelefonRehber\bin\Debug\Udemy.BusinessLogicLayer.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.TelefonRehber\bin\Debug\Udemy.Entities.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.TelefonRehber\bin\Debug\Udemy.DatabaseLogicLayer.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.TelefonRehber\bin\Debug\Udemy.BusinessLogicLayer.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.TelefonRehber\bin\Debug\Udemy.Entities.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.TelefonRehber\bin\Debug\Udemy.DatabaseLogicLayer.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.TelefonRehber\obj\Debug\Udemy.TelefonRehber.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\108-) Rehber Proje (ado.net)\Udemy\Udemy.TelefonRehber\obj\Debug\Udemy.TelefonRehber.pdb
